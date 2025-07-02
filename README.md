@@ -1,7 +1,7 @@
 ### Hello World! ✌️
 
 ##
-Undergraduate student in Electrical Engineering - Control and Automation.
+Electrical Engineer - Robotics and Industrial Automation.
 
 ##
 
